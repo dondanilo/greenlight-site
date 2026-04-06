@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" fill="none">
+  <!-- Icon mark: 3-arm arrow star -->
+  <g transform="translate(4, 8)">
+    <!-- Arm upper-right -->
+    <line x1="32" y1="32" x2="54" y2="10" stroke="#009A44" stroke-width="6.5" stroke-linecap="round"/>
+    <polyline points="42,10 54,10 54,22" stroke="#009A44" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- Arm lower-right -->
+    <line x1="32" y1="32" x2="54" y2="54" stroke="#009A44" stroke-width="6.5" stroke-linecap="round"/>
+    <polyline points="42,54 54,54 54,42" stroke="#009A44" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- Arm left -->
+    <line x1="32" y1="32" x2="8" y2="32" stroke="#009A44" stroke-width="6.5" stroke-linecap="round"/>
+    <polyline points="8,22 8,32 18,32" stroke="#009A44" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+  <!-- Wordmark: "greenlight" -->
+  <text x="80" y="46" font-family="'PF Din Display Pro','DIN Pro',Verdana,sans-serif" font-size="28" font-weight="700" letter-spacing="-0.5" fill="#1a1a1a">
+    <tspan fill="#1a1a1a">green</tspan><tspan fill="#1a1a1a" font-weight="400">light</tspan>
+  </text>
+  <!-- Subtitle -->
+  <text x="80" y="62" font-family="'PF Din Display Pro','DIN Pro',Verdana,sans-serif" font-size="10" font-weight="500" letter-spacing="1.5" fill="#888888">IT SOLUTIONS &amp; CONSULTING</text>
+</svg>
