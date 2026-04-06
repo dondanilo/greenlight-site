@@ -9,9 +9,9 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --green:      #009A44;
+  --green:      #00B140;
   --green-dark: #215732;
-  --green-mid:  #007A35;
+  --green-mid:  #009A38;
   --green-bg:   #F0FAF4;
   --green-line: rgba(0,154,68,.18);
 
